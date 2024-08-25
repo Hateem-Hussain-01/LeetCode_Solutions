@@ -75,4 +75,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->

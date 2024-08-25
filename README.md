@@ -84,6 +84,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0564-find-the-closest-palindrome](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [1240-stone-game-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
 ## String
 |  |
 | ------- |
@@ -93,4 +94,20 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
+## Array
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->

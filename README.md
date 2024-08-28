@@ -99,6 +99,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [1240-stone-game-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
+| [1580-shuffle-the-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1580-shuffle-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |

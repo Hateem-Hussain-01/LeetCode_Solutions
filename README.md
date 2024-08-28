@@ -71,6 +71,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [2035-count-sub-islands](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -100,6 +101,7 @@ This project is licensed under the MIT License.
 | [0941-sort-array-by-parity](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [1240-stone-game-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
 | [1580-shuffle-the-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1580-shuffle-the-array) |
+| [2035-count-sub-islands](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2035-count-sub-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,4 +122,16 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2035-count-sub-islands) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2035-count-sub-islands) |
+## Matrix
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->

@@ -71,6 +71,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
@@ -131,9 +132,18 @@ This project is licensed under the MIT License.
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2035-count-sub-islands) |
+## Hash Table
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Graph
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->

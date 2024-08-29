@@ -83,6 +83,7 @@ This project is licensed under the MIT License.
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0564-find-the-closest-palindrome](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [1240-stone-game-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
@@ -98,6 +99,7 @@ This project is licensed under the MIT License.
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0941-sort-array-by-parity](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [1240-stone-game-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
 | [1580-shuffle-the-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1580-shuffle-the-array) |

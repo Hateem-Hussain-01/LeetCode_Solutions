@@ -148,4 +148,13 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2803-modify-graph-edge-weights](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2803-modify-graph-edge-weights) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2803-modify-graph-edge-weights) |
+## Shortest Path
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->

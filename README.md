@@ -104,6 +104,7 @@ This project is licensed under the MIT License.
 | [0066-plus-one](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0941-sort-array-by-parity](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [1240-stone-game-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1580-shuffle-the-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1580-shuffle-the-array) |
 | [2035-count-sub-islands](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2035-count-sub-islands) |
 ## Dynamic Programming
@@ -148,13 +149,16 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1325-path-with-maximum-probability](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->

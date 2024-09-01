@@ -98,6 +98,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Array
 |  |
 | ------- |
@@ -107,6 +108,7 @@ This project is licensed under the MIT License.
 | [1325-path-with-maximum-probability](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1580-shuffle-the-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1580-shuffle-the-array) |
 | [2035-count-sub-islands](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -141,6 +143,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |

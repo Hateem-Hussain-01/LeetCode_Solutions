@@ -104,6 +104,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [1240-stone-game-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1325-path-with-maximum-probability) |
@@ -127,6 +128,7 @@ This project is licensed under the MIT License.
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 ## Sorting

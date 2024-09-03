@@ -106,6 +106,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
@@ -176,5 +177,10 @@ This project is licensed under the MIT License.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

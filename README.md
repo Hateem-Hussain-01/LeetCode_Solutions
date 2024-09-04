@@ -91,6 +91,7 @@ This project is licensed under the MIT License.
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0564-find-the-closest-palindrome](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
@@ -138,6 +139,7 @@ This project is licensed under the MIT License.
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0941-sort-array-by-parity](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 ## Breadth-First Search
 |  |
@@ -157,6 +159,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Graph
 |  |

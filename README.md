@@ -67,16 +67,19 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1484-linked-list-in-binary-tree](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,6 +155,7 @@ This project is licensed under the MIT License.
 ## Breadth-First Search
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
@@ -200,5 +204,6 @@ This project is licensed under the MIT License.
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->

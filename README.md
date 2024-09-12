@@ -84,6 +84,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Math
 |  |
@@ -101,6 +102,7 @@ This project is licensed under the MIT License.
 | [0344-reverse-string](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0564-find-the-closest-palindrome](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Simulation
 |  |
@@ -126,6 +128,7 @@ This project is licensed under the MIT License.
 | [1240-stone-game-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1580-shuffle-the-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1580-shuffle-the-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -182,6 +185,7 @@ This project is licensed under the MIT License.
 | [0242-valid-anagram](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0906-walking-robot-simulation](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
 |  |
@@ -221,4 +225,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Counting
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->

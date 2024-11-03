@@ -102,6 +102,7 @@ This project is licensed under the MIT License.
 | [0344-reverse-string](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0564-find-the-closest-palindrome](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0812-rotate-string](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0812-rotate-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Simulation
@@ -233,4 +234,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->

@@ -86,6 +86,7 @@ This project is licensed under the MIT License.
 | [0476-number-complement](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
 |  |
 | ------- |
@@ -135,6 +136,7 @@ This project is licensed under the MIT License.
 | [2132-convert-1d-array-into-2d-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2411-spiral-matrix-iv) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
@@ -163,6 +165,7 @@ This project is licensed under the MIT License.
 | [0016-3sum-closest](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0941-sort-array-by-parity](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Breadth-First Search
 |  |
 | ------- |

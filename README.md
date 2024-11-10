@@ -88,6 +88,7 @@ This project is licensed under the MIT License.
 | [1940-maximum-xor-for-each-query](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Math
 |  |
 | ------- |
@@ -139,6 +140,7 @@ This project is licensed under the MIT License.
 | [2155-find-missing-observations](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2411-spiral-matrix-iv) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
@@ -244,4 +246,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0812-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 <!---LeetCode Topics End-->

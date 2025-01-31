@@ -108,6 +108,7 @@ This project is licensed under the MIT License.
 | [0812-rotate-string](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0812-rotate-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2886-faulty-keyboard](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2886-faulty-keyboard) |
 ## Simulation
 |  |
 | ------- |
@@ -118,6 +119,7 @@ This project is licensed under the MIT License.
 | [2132-convert-1d-array-into-2d-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2886-faulty-keyboard](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2886-faulty-keyboard) |
 ## Array
 |  |
 | ------- |

@@ -10,3 +10,4 @@ class Solution:
           left +=1
           right -=1
         # s = s.reverse()
+        # s[:]=s[::-1]

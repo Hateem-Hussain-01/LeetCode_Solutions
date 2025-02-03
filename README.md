@@ -93,6 +93,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [1240-stone-game-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
@@ -103,6 +104,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0242-valid-anagram](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0812-rotate-string](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0812-rotate-string) |
@@ -112,6 +114,7 @@ This project is licensed under the MIT License.
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |

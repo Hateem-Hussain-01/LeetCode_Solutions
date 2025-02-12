@@ -144,6 +144,7 @@ This project is licensed under the MIT License.
 | [2132-convert-1d-array-into-2d-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3429-special-array-i) |
@@ -176,6 +177,7 @@ This project is licensed under the MIT License.
 | [0016-3sum-closest](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0941-sort-array-by-parity](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Breadth-First Search
 |  |
@@ -201,6 +203,7 @@ This project is licensed under the MIT License.
 | [0906-walking-robot-simulation](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
 |  |
@@ -212,6 +215,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1325-path-with-maximum-probability) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2803-modify-graph-edge-weights](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |

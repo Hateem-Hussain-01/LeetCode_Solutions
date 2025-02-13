@@ -123,6 +123,7 @@ This project is licensed under the MIT License.
 | [2155-find-missing-observations](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2886-faulty-keyboard](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2886-faulty-keyboard) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Array
 |  |
 | ------- |
@@ -146,6 +147,7 @@ This project is licensed under the MIT License.
 | [2411-spiral-matrix-iv](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -217,6 +219,7 @@ This project is licensed under the MIT License.
 | [1325-path-with-maximum-probability](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2803-modify-graph-edge-weights](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2803-modify-graph-edge-weights) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Shortest Path
 |  |
 | ------- |

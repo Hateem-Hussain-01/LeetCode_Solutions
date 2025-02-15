@@ -99,6 +99,7 @@ This project is licensed under the MIT License.
 | [1240-stone-game-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2155-find-missing-observations](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2155-find-missing-observations) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## String
 |  |
@@ -274,4 +275,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->

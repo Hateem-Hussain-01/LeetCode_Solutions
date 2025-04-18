@@ -104,6 +104,7 @@ This project is licensed under the MIT License.
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0242-valid-anagram](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0412-fizz-buzz) |

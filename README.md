@@ -107,6 +107,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
@@ -262,6 +263,7 @@ This project is licensed under the MIT License.
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## String Matching
 |  |

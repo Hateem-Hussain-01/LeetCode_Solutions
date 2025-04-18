@@ -62,6 +62,7 @@ This project is licensed under the MIT License.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
@@ -108,6 +109,7 @@ This project is licensed under the MIT License.
 | [0008-string-to-integer-atoi](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0412-fizz-buzz) |

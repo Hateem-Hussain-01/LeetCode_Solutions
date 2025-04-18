@@ -92,6 +92,7 @@ This project is licensed under the MIT License.
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0564-find-the-closest-palindrome) |
@@ -105,6 +106,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
@@ -206,6 +208,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0906-walking-robot-simulation](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |

@@ -138,6 +138,7 @@ This project is licensed under the MIT License.
 | [0001-two-sum](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0283-move-zeroes) |
@@ -179,6 +180,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0344-reverse-string) |

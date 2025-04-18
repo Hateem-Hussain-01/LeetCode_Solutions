@@ -139,6 +139,7 @@ This project is licensed under the MIT License.
 | [0004-median-of-two-sorted-arrays](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0283-move-zeroes) |
@@ -242,6 +243,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer

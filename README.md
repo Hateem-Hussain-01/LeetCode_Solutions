@@ -158,6 +158,7 @@ This project is licensed under the MIT License.
 | [2155-find-missing-observations](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -187,6 +188,7 @@ This project is licensed under the MIT License.
 | [0283-move-zeroes](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -194,6 +196,7 @@ This project is licensed under the MIT License.
 | [0242-valid-anagram](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0941-sort-array-by-parity](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Breadth-First Search
 |  |
@@ -247,6 +250,7 @@ This project is licensed under the MIT License.
 | [0035-search-insert-position](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |

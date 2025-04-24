@@ -159,6 +159,7 @@ This project is licensed under the MIT License.
 | [2411-spiral-matrix-iv](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -224,6 +225,7 @@ This project is licensed under the MIT License.
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
 |  |
@@ -283,6 +285,7 @@ This project is licensed under the MIT License.
 ## Sliding Window
 |  |
 | ------- |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Design
 |  |

@@ -143,6 +143,7 @@ This project is licensed under the MIT License.
 | [0035-search-insert-position](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0906-walking-robot-simulation](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0906-walking-robot-simulation) |
 | [0941-sort-array-by-parity](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
@@ -194,6 +195,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0016-3sum-closest) |
+| [0217-contains-duplicate](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0941-sort-array-by-parity](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -220,6 +222,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0001-two-sum](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0906-walking-robot-simulation](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Hateem-Hussain-01/LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
